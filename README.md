@@ -1,6 +1,10 @@
 # Modelagem de dados
- 
-<img width="1500em" src="https://user-images.githubusercontent.com/59957939/167207030-b476e55b-e29f-4764-a719-f004be457068.jpg">
+
+<div align="center">
+<img width="500em" src="https://i.pinimg.com/originals/fb/68/41/fb6841b5b9701782a9dd24bd6702da5a.gif"><img width="505em" src="http://pm1.narvii.com/6464/5cd588cf2553e8975276131b8d1e7307cd827dff_00.jpg">
+</div>
+
+###
 
 Atividades para o Instituto PROA utilizando o brModelo para a concepção e construção de diferentes bancos de dados. O repositório contém pastas com os modelos em .brM3, .SQL e também as imagens mostrando sua concepção.
 
@@ -8,7 +12,7 @@ Atividades para o Instituto PROA utilizando o brModelo para a concepção e cons
 
 Feito em parceria com os brabos:
 
-<div>
+<!--<img width="500em" Align="right" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">-->
 
 ##### Amanda
 <a href="https://github.com/amandavalentim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
@@ -32,5 +36,3 @@ Feito em parceria com os brabos:
 ###
 ##### Michely
 <a href="https://github.com/MichellyNonatto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
-
-</div>
