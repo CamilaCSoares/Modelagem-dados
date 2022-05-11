@@ -12,8 +12,6 @@ Atividades para o Instituto PROA utilizando o brModelo para a concepção e cons
 
 Feito em parceria com os brabos:
 
-<!--<img width="500em" Align="right" src="https://c.tenor.com/D2H0hPltOdYAAAAC/golden-boy-fake-keyboard-programing-coding-paper-book.gif">-->
-
 ##### Amanda
 <a href="https://github.com/amandavalentim" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"    target="_blank"></a>
 
