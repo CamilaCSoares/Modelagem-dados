@@ -1,8 +1,12 @@
+<div align="center">
+ 
 # Modelagem de dados
+</div>  
 
 <div align="center">
-<img width="400em" src="https://i.pinimg.com/originals/fb/68/41/fb6841b5b9701782a9dd24bd6702da5a.gif"><img width="404em" src="http://pm1.narvii.com/6464/5cd588cf2553e8975276131b8d1e7307cd827dff_00.jpg">
-</div>
+  <img height="300em" src="https://i.pinimg.com/originals/fb/68/41/fb6841b5b9701782a9dd24bd6702da5a.gif">
+  <img height="300em" src="http://pm1.narvii.com/6464/5cd588cf2553e8975276131b8d1e7307cd827dff_00.jpg">
+</div> 
 
 ###
 
